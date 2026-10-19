@@ -1,0 +1,76 @@
+{
+  "shop": {
+    "name": "Sankaranarayanan Cotton Sarees",
+    "owner": "Sankaranarayanan V",
+    "whatsapp": "918124152592"
+  },
+  "sarees": [
+    {
+      "code": "S1",
+      "name": "Purple Elephant Zari Border",
+      "color": "Purple",
+      "hex": "#6a1b9a",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000107130.jpg",
+        "images/1000107129.jpg"
+      ]
+    },
+    {
+      "code": "S2",
+      "name": "Mustard Peacock Border",
+      "color": "Mustard",
+      "hex": "#b8860b",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000095680.jpg"
+      ]
+    },
+    {
+      "code": "S3",
+      "name": "Purple with Green Zari Border",
+      "color": "Purple",
+      "hex": "#6a1b9a",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000081983.jpg"
+      ]
+    },
+    {
+      "code": "S4",
+      "name": "Coffee Brown Gold Elephant Border",
+      "color": "Brown",
+      "hex": "#4a2230",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000081935.jpg"
+      ]
+    },
+    {
+      "code": "S5",
+      "name": "Mustard Gold with Magenta Border",
+      "color": "Mustard",
+      "hex": "#b8860b",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000081933.jpg"
+      ]
+    },
+    {
+      "code": "S6",
+      "name": "Olive Green with Maroon Border",
+      "color": "Green",
+      "hex": "#6b7a1e",
+      "price": null,
+      "soldOut": false,
+      "images": [
+        "images/1000065731.jpg"
+      ]
+    }
+  ]
+}
